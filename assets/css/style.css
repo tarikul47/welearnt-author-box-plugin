@@ -1,0 +1,10 @@
+.author-img {
+    width: 150px;
+    height: 130px;
+}
+.author-box h3, .author-box h5 {
+    margin: 0 !important;
+}
+.author-box ul, .author-box li {
+    margin: 0;
+}
