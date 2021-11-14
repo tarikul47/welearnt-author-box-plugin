@@ -110,3 +110,5 @@ function welearnt_custom_script()
     wp_enqueue_style('custom-css', plugins_url('assets/css/style.css', __FILE__));
 }
 add_action('wp_enqueue_scripts', 'welearnt_custom_script');
+
+
